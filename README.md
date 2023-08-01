@@ -6,11 +6,12 @@
 
 <h2>  Future YouTube Videos:</h2>
 
+<h2>  Certifications and Certificate:</h2>
 <h2>  Connect with me:</h2>
 
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="SharonMitchell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 
-<h2>  Certifications and Certificate:</h2>
+
 
 <!---
 sharontechnical2022/sharontechnical2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
