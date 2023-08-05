@@ -6,7 +6,9 @@
 
 <h2>  Future YouTube Videos:</h2>
 
-<h2>  Certifications and Certificate:</h2>
+<h2>  Certifications and Certificates:</h2>
+-Professional Certificate, Cyber and Networking Security, Georgia Institute of Technology
+-ITILv3
 <h2>  Connect with me:</h2>
 
 <img align="left" alt="SharonMitchell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
