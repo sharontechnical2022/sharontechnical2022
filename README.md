@@ -7,7 +7,7 @@
 <h2>  Future YouTube Videos:</h2>
 
 <h2>  Certifications and Certificates:</h2>
--Professional Certificate, Cyber and Networking Security, Georgia Institute of Technology
+-<b>Professional Certificate, Cyber and Networking Security, Georgia Institute of Technology</b>
 -ITILv3
 <h2>  Connect with me:</h2>
 
