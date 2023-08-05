@@ -8,7 +8,7 @@
 
 <h2>  Certifications and Certificates:</h2>
 -<b>Professional Certificate, Cyber and Networking Security, Georgia Institute of Technology</b>
--ITILv3
+-<b>ITILv3</b>
 <h2>  Connect with me:</h2>
 
 <img align="left" alt="SharonMitchell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
