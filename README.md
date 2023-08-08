@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sharon! <br/> <a href="https://www.linkedin.com/in/sharon-mitchell-0755493"</a>Cybersecurity Professional</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
-- <b>VirtualBoxl</b>
+- <b>VirtualBox</b>
  [VirtualBox Installation Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install)
 
 <h2>  Future YouTube Videos:</h2>
