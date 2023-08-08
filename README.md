@@ -2,5 +2,5 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Setting up Virtual Server on Windows 11 Home</b>
+- <b>Setting up a Virtual Machine on Windows 11 Home</b>
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md)
