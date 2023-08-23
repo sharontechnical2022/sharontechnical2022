@@ -9,3 +9,4 @@
 
 - <b>Accessing Ubuntu and its terminal</b>
   - [Ubuntu Access](https://github.com/sharontechnical2022/www.youtube.com/watch?v=78-zh3rwko8)
+  - [Access Ubuntu](https://www.youtube.com/watch?v=78-zh3rwko8)
