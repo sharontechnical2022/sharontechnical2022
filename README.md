@@ -4,6 +4,9 @@
 
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md)
+    
+ - <b>Installing Redhat Linux on Virtual Box</b>
+    - [Redhat Linux Installation](https://github.com/sharontechnical2022/RedHat-Linux-Install)
 
 <h2>YouTube Videos</h2>
 
