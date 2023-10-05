@@ -11,6 +11,7 @@
     - [Create Azure Subscription with a Resource Group](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation)
   
  - <b>Creating a Ticketing Solution - osTicket</b>
+   - [osTicket Setup using Microsoft Azure](https://github.com/sharontechnical2022/OS-Ticket-Installation)
  
 
 
