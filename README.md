@@ -9,9 +9,8 @@
   
  - <b>Creating a Microsoft Azure subscription and Resource Group</b>
     - [Create Azure Subscription with a Resource Group](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation)
+  
+ - <b>Creating a Ticketing Solution - osTicket</b>
+ 
 
-<h2>YouTube Videos</h2>
 
-
-
-  - [Access Ubuntu](https://www.youtube.com/watch?v=78-zh3rwko8)
