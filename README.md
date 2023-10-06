@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sharon, IT Professional! </h1>
+<h1>Hi, I'm Sharon. Take a look around at my latest IT projects</h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -13,5 +13,5 @@
  - <b>Creating a Ticketing Solution - osTicket</b>
    - [osTicket Setup using Microsoft Azure](https://github.com/sharontechnical2022/OS-Ticket-Installation)
  
-
+<h2> BootCamp Projects:</h2>
 
