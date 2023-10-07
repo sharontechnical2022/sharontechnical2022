@@ -13,7 +13,9 @@
  - <b>Creating a Ticketing Solution - osTicket</b>
    - [osTicket Setup using Microsoft Azure](https://github.com/sharontechnical2022/OS-Ticket-Installation)
  
-<h2> BootCamp Projects:</h2>
+<h2> BootCamp Projects & Assignments:</h2>
 ***** work in progress. There are lot of projects/homework assignments to add here ****
+
+[Assignment 8: Networking Fundamentals: Rocking your Network](https://docs.google.com/document/d/1rfZwh8pFnNveBmdnfX3zocJi7p152awERaoz2s3u9SQ/edit?usp=sharing)
 
 [Project 21.3 Digital Forensics](https://docs.google.com/document/d/1YBFjD9gURGGGk8ork6uTYc3jKcxByvbRPUjiASFST_k/edit)
