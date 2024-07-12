@@ -1,4 +1,4 @@
-<h1>Hi! My name is Sharon...welcome to my page. Please help yourself and take a look around</h1>
+<h1>Hi! My name is Sharon...welcome to my page. Please help yourself and take a look around.</h1>
 
 <h2> Information Technology Projects:</h2>
 
