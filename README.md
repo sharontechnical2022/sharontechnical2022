@@ -1,12 +1,8 @@
 # Hi, I'm Sharon 👋🏽 
 
-![](https://raw.githubusercontent.com/cleph01/cleph01/master/banner.png)
+I'm an IT Support professional with a strong foundation in cybersecurity, customer service, and problem-solving. My journey blends experience in traveling, excursions, project management, and technology with a strategic career shift backing into IT support and new adventure into cybersecurity.
 
-<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
-
-I'm an IT Support professional with a strong foundation in cybersecurity, customer service, and problem-solving. My journey blends experience in fitness coaching, web development, and technology, with a strategic career shift into IT support and cybersecurity.
-
-I hold CompTIA Security+ and ITILv3 Foundation certifications and hold a degree in Computer Information Systems while I am actively learning SIEM technology with SPLUNK
+I hold the CompTIA Security+ and ITILv3 Foundation certification as well as a degree in Computer Information Systems while I am actively learning Splunk for SIEM and dashboard analytics.
 
 <h2> Information Technology Projects:</h2>
 
