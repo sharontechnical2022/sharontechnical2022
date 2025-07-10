@@ -2,7 +2,7 @@
 
 I'm an IT Support professional with a strong foundation in cybersecurity, customer service, and problem-solving. My journey blends experience in traveling, excursions, project management, and technology with a strategic career shift backing into IT support and new adventure into cybersecurity.
 
-I hold the CompTIA Security+ and ITILv3 Foundation certification as well as a degree in Computer Information Systems while I am actively learning Splunk for SIEM and dashboard analytics.
+I hold the CompTIA Security+ certification & ITILv3 Foundation certifications as well as a degree in Computer Information Systems while I am actively learning Splunk for SIEM and dashboard analytics.
 
 <h2> Information Technology Projects:</h2>
 
