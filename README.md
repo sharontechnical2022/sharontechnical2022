@@ -2,7 +2,7 @@
 
 I'm an IT Support professional with a strong foundation in cybersecurity, customer service, and problem-solving. My journey blends experience in traveling, excursions, project management, and technology with a strategic career shift backing into IT support and new adventure into cybersecurity.
 
-I hold the CompTIA Security+ & ITILv3 Foundation certifications as well as a degree in Computer Information Systems.
+I hold the CompTIA Security+ & ITIL certifications as well as a degree in Computer Information Systems.
 <h2> Information Technology Projects:</h2>
 
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
