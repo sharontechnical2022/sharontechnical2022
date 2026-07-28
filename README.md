@@ -1,8 +1,20 @@
 # Hi, I'm Sharon 👋🏽 
 
-I'm an IT Support professional with a strong foundation in cybersecurity, customer service, and problem-solving. My journey blends experience in traveling, excursions, project management, and technology with a strategic career shift backing into IT support and new adventure into cybersecurity.
+I have a background in IT support, autonomous robotics operations, and cybersecurity.
+
+My work focuses on supporting live technical systems, troubleshooting hardware and software issues, documenting incidents, validating fixes, and improving operational reliability.
+
+I’m currently building projects around:
+
+- Autonomous robot fleet operations
+- Technical troubleshooting and incident response
+- Linux for robotics and field systems
+- Risk registers and GRC control mapping
+- Validation, testing, and operational documentation
 
 I hold the CompTIA Security+ & ITIL certifications as well as a degree in Computer Information Systems.
+
+Here are some of my other work. 09
 <h2> Information Technology Projects:</h2>
 
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
@@ -16,9 +28,3 @@ I hold the CompTIA Security+ & ITIL certifications as well as a degree in Comput
  - <b>Creating a Ticketing Solution - osTicket</b>
    - [osTicket Setup using Microsoft Azure](https://github.com/sharontechnical2022/OS-Ticket-Installation)
  
-<h2> BootCamp Projects & Assignments:</h2>
-***** work in progress. There are lot of projects/homework assignments to add here ****
-
-✅ [Assignment 8: Networking Fundamentals: Rocking your Network](https://docs.google.com/document/d/1rfZwh8pFnNveBmdnfX3zocJi7p152awERaoz2s3u9SQ/edit?usp=sharing)
-
-✅ [Project 21.3 Digital Forensics](https://docs.google.com/document/d/1YBFjD9gURGGGk8ork6uTYc3jKcxByvbRPUjiASFST_k/edit)
