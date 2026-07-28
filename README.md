@@ -56,10 +56,7 @@ I’m interested in roles involving autonomous systems, technical operations, de
 **Cybersecurity and GRC**
 - Risk assessment
 - Risk registers
-- NIST CSF
-- NIST SP 800-53
-- ISO/IEC 27001
-- Security control mapping
+
 
 ## Other Projects
 <h2> Information Technology Projects:</h2>
