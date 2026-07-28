@@ -1,4 +1,4 @@
-# Hi, I'm Sharon 👋🏽 Autonomous Systems & Technical Operations | Robotics Fleet Support | Linux, Troubleshooting, Validation, and GRC
+# Hi, I'm Sharon 👋🏽 
 
 I have a background in IT support, autonomous robotics operations, and cybersecurity.
 
