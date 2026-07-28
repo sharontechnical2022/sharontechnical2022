@@ -28,7 +28,40 @@ My experience includes:
 - Applying cybersecurity and GRC concepts to autonomous systems
 
 I’m interested in roles involving autonomous systems, technical operations, deployment, field support, reliability, testing, and technology risk.
-Here are some of my other work. 
+
+## Skills
+
+**Autonomous Systems**
+- Fleet operations
+- Deployment support
+- Incident escalation
+- Operational recovery
+- Safety procedures
+
+**Technical**
+- Linux
+- Networking
+- Hardware and software troubleshooting
+- Log analysis
+- Jira
+- Google Workspace
+
+**Testing and Documentation**
+- Functional testing
+- Regression validation
+- Bug reporting
+- Root cause documentation
+- SOPs and runbooks
+
+**Cybersecurity and GRC**
+- Risk assessment
+- Risk registers
+- NIST CSF
+- NIST SP 800-53
+- ISO/IEC 27001
+- Security control mapping
+
+## Other Projects
 <h2> Information Technology Projects:</h2>
 
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
