@@ -13,8 +13,22 @@ I’m currently building projects around:
 - Validation, testing, and operational documentation
 
 I hold the CompTIA Security+ & ITIL certifications as well as a degree in Computer Information Systems.
+## About Me
 
-Here are some of my other work. 09
+I’ve worked in enterprise IT, logistics, and autonomous robotics operations.
+
+My experience includes:
+
+- Supporting autonomous robot fleets
+- Monitoring system health and responding to operational issues
+- Troubleshooting Linux-based devices and network connectivity
+- Documenting defects and incidents in Jira
+- Coordinating with engineering teams
+- Performing deployment and post-fix validation
+- Applying cybersecurity and GRC concepts to autonomous systems
+
+I’m interested in roles involving autonomous systems, technical operations, deployment, field support, reliability, testing, and technology risk.
+Here are some of my other work. 
 <h2> Information Technology Projects:</h2>
 
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
