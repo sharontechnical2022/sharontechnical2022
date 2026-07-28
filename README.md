@@ -57,10 +57,7 @@ I’m interested in roles involving autonomous systems, technical operations, de
 - Risk assessment
 - Risk registers
 
-
 ## Other Projects
-<h2> Information Technology Projects:</h2>
-
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md) 
  - <b>Installing Redhat Linux on Virtual Box</b>
