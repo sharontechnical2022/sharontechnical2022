@@ -1,10 +1,10 @@
 # Hi, I'm Sharon 👋🏽 
 
 ## **I keep robots running and AI accountable.**
+
 I'm a technology and autonomous systems operations professional with experience coordinating robotics fleets, incident response, technical service delivery, and enterprise IT projects. I'm building practical labs that explore how cybersecurity, risk management, and AI governance support safer autonomous systems.
 
 I’m currently building projects around:
-
 - Autonomous robot fleet operations
 - Technical troubleshooting and incident response
 - Linux for robotics and field systems
@@ -38,6 +38,7 @@ I’m interested in roles involving autonomous systems, technical operations, de
 
 **Technical**
 - Linux
+- PS5 teleoperations/controllers
 - Salesforce CRM
 - ServiceNow
 - Microsoft 365
@@ -46,7 +47,7 @@ I’m interested in roles involving autonomous systems, technical operations, de
 - Cerebro
 - Tailscale
 - Networking
-- Hardware and software troubleshooting
+- Technical troubleshooting and operational diagnostics
 - Log analysis
 - Jira Service Management
 - Google Workspace
