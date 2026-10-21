@@ -11,7 +11,6 @@ I’m currently building projects around:
 - Risk registers and GRC control mapping
 - Validation, testing, and operational documentation
 
-I hold the CompTIA Security+ & ITIL certifications as well as a degree in Computer Information Systems.
 ## About Me
 
 I’ve worked in enterprise IT, logistics, and autonomous robotics operations.
@@ -63,7 +62,14 @@ I’m interested in roles involving autonomous systems, technical operations, de
 - Risk assessment
 - Risk registers
 
+## Certifications & Professional Training
+
+- **CompTIA Security+** | June 2024
+- **ITIL v3 Foundation**
+- **Georgia Tech** | Cyber & Network Security Bootcamp, Completed May 2023
+  
 ## Other Projects
+
 - <b>Setting up a Virtual Machine on Windows 11 Home</b>
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md) 
  - <b>Installing Redhat Linux on Virtual Box</b>
