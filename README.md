@@ -1,8 +1,7 @@
 # Hi, I'm Sharon 👋🏽 
 
-I have a background in IT support, autonomous robotics operations, and cybersecurity.
-
-My work focuses on supporting live technical systems, troubleshooting hardware and software issues, documenting incidents, validating fixes, and improving operational reliability.
+**I keep robots running and AI accountable.**
+I'm a technology and autonomous systems operations professional with experience coordinating robotics fleets, incident response, technical service delivery, and enterprise IT projects. I'm building practical labs that explore how cybersecurity, risk management, and AI governance support safer autonomous systems.
 
 I’m currently building projects around:
 
